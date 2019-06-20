@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 30a9a10e413b11a44b42d521483525c0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {fileID: 3855130668808239399, guid: ad70a2ceba8434e439ee45c37e3e6c60,
+      type: 3}
+  - MainCamera: {fileID: 8776913073386821478, guid: d8895e913817c4d4a920d359beee34e7,
+      type: 3}
+  - CurrentScaleNano: {instanceID: 0}
+  - CurrentScaleMicro: {instanceID: 0}
+  - CurrentScaleMilli: {instanceID: 0}
+  - CellTouchIndicator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

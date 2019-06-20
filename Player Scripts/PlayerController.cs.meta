@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 69b31e997482ba041bbdf380cf0128c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - VirusRigidBody2D: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - defaultAdenovirusSprite: {fileID: 21300000, guid: 88911fa1a8a779f4d989909755e8fb23,
+      type: 3}
+  - dnaSprite: {fileID: 21300000, guid: 30b04d87a5d5f114daea114fbc77dfd1, type: 3}
+  - envelopedAdenovirusSprite: {fileID: 21300000, guid: 5fa0dba5a5c47374592ce008e8922e78,
+      type: 3}
+  - nakedAdenovirusCapsidSprite: {fileID: 21300000, guid: df19ad48efdebd343b3e2d69c1a17690,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
